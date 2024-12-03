@@ -5,9 +5,8 @@ import (
 	"log/slog"
 	"net/http"
 
-	"internal/config"
-	"internal/handler"
-  
+	"github.com/atipugin/golang-templ-htmx-app/internal/config"
+	"github.com/atipugin/golang-templ-htmx-app/internal/handler"
 	"github.com/go-chi/chi/v5"
 )
 

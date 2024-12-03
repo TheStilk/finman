@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/signal"
 
-	"internal/app"
+	"github.com/atipugin/golang-templ-htmx-app/internal/app"
 )
 
 func main() {
