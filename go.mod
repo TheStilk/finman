@@ -1,5 +1,3 @@
-module github.com/atipugin/golang-templ-htmx-app
-
 go 1.22.6
 
 require (
